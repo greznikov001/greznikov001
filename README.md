@@ -1,5 +1,4 @@
 - Hi, I’m Gene Reznikov
-- I’m a leader and technologist passionate about customer success advocate
 - 🕌🗼🗽🏰**Vialto Partners**🏯💒🌉
 - 💞️ I’m looking to collaborate on ServiceNow technologies and automations
 - 📫 How to reach me gene.reznikov@vialto.com
