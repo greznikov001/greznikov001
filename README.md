@@ -8,27 +8,16 @@ My work focuses on making complex systems simple, reliable, and easy to support�
 🔍 Areas of focus:
 
 Infrastructure as Code (Terraform, Ansible)
-
 Cloud Platforms (Azure, AWS)
-
 ITSM & Support Automation (ServiceNow, Jira)
-
 Data & Observability (Power BI, Splunk, Grafana, SQL, Snowflake)
-
 Security & IAM (CISSP, Okta, BeyondTrust, Azure AD, zScaler)
-
 DevOps Practices (CI/CD, GitHub Actions, Azure DevOps, CircleCI)
-
 Scripting & Integration (PowerShell, Bash, C#, JavaScript)
 
 🧠 Interests:
-
 Building human-centered systems that scale
-
 Operational visibility & incident management
-
 Cloud cost optimization (FinOps)
-
 Team enablement and mentorship
-
 Tools that quietly do their job
