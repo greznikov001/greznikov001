@@ -1,7 +1,7 @@
 - Hi, I’m Gene Reznikov
-- 🕌🗼🗽🏰**Vialto Partners**🏯💒🌉
-- 💞️ I’m looking to collaborate on ServiceNow technologies and automations
-- 📫 How to reach me gene.reznikov@vialto.com
+- 🕌🗼🗽🏰**ArgoWake Technology Solutions**🏯💒🌉
+- 💞️ I’m looking to collaborate on AI for Business, ServiceNow technologies and automations
+- 📫 How to reach me gene.reznikov@outlook.com
 
 <!---
 greznikov001/greznikov001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
