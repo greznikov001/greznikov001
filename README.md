@@ -1,5 +1,5 @@
 - Hi, I’m Gene Reznikov
-- 🕌🗼🗽🏰**ArgoWake Technology Solutions**🏯💒🌉
+- 🕌🗼🗽🏰**Technology Solutions**🏯💒🌉
 - 💞️ I’m looking to collaborate on AI for Business, ServiceNow technologies and automations
 - 📫 How to reach me gene.reznikov@outlook.com
 
